@@ -29,7 +29,7 @@ Creates timestamped backup archive of projects directory.
 ### disk_monitor.sh
 Monitors disk usage and alerts when threshold is exceeded.
 
-**Usage**
+**Usage:**
 ```bash
 ./disk_monitor.sh
 ```
@@ -39,7 +39,8 @@ Monitors disk usage and alerts when threshold is exceeded.
 - Alerts if usage exceeds 80%
 - Returns OK status if within normal range
 
-## Enviroment
+## Environment
 
 - OS: Ubuntu 24.04 LTS
 - Shell: Bash
+
